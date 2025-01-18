@@ -2,14 +2,14 @@ Task Management System
 Описание
 Task Management System - это API для управления задачами. Проект включает функционал для работы с пользователями, задачами и администраторами.
 
-Стек технологий
-Java 17
-Spring Boot 3.4.1
-PostgreSQL
-Docker и Docker Compose
-JWT для аутентификации и авторизации
-Spring Security
-Swagger для документирования API
+Стек технологий:
+-Java 17
+-Spring Boot 3.4.1
+-PostgreSQL
+-Docker и Docker Compose
+-JWT для аутентификации и авторизации
+-Spring Security
+-Swagger для документирования API
 
 Требования для локального запуска
 Docker и Docker Compose установлены на вашей системе.
